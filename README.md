@@ -1,6 +1,6 @@
 # Hi, i'm Nova!
 <p align="center">
-<img height="150" src="img/download.gif">
+<img height="150" src="img/lain - we are all connected.jpg">
 </p>
 
 ##  About Me
